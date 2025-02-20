@@ -138,7 +138,7 @@
             <div class="flex flex-col md:flex-row items-center h-full">
                 <!-- Text Content -->
                 <div class="md:w-1/2 mb-6 md:mb-0 text-center md:text-left">
-                    <h2 class="text-2xl font-bold mb-4">Bienvenue au Centre de Ressources pour l'Enseignement Primaire à
+                    <h2 class="text-2xl font-bold mb-4">Bienvenue au Centre de Ressources pour l'Enseignement du Préscolaire à
                         OUJDA</h2>
                     <p class="text-gray-600 mb-4">
                         Au Centre de Ressources , nous nous engageons à offrir une formation de qualité pour vous aider
