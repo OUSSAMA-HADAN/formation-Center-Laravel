@@ -17,7 +17,7 @@ use Illuminate\Support\Facades\Route;
 */
 
 Route::get('/', function () {
-    return view('homePage');
+    return view('index');
 });
 
 Route::get('/apply', [ApplicantController::class, 'create'])->name('create');

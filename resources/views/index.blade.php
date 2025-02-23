@@ -75,7 +75,7 @@
                     <a href="#"
                         class="py-4 px-2 text-gray-500 font-semibold hover:text-blue-500 transition duration-300">Acceil</a>
                     <a href="#surNous"
-                        class="py-4 px-2 text-gray-500 font-semibold hover:text-blue-500 transition duration-300">Sue
+                        class="py-4 px-2 text-gray-500 font-semibold hover:text-blue-500 transition duration-300">Sur
                         Nous</a>
                     <a href="#location"
                         class="py-4 px-2 text-gray-500 font-semibold hover:text-blue-500 transition duration-300">location</a>
@@ -146,11 +146,11 @@
                         Nos programmes sont conçus pour répondre aux besoins des enseignants et des professionnels de
                         l’éducation souhaitant enrichir leurs compétences et favoriser l’excellence pédagogique.
                     </p>
-                    <p class="text-gray-600">
+                    {{-- <p class="text-gray-600">
                         Avec des formateurs expérimentés, des installations modernes et un environnement d’apprentissage
                         bienveillant, nous veillons à ce que chaque apprenant dispose des outils et des connaissances
                         nécessaires pour réussir. Rejoignez-nous et commencez votre parcours dès aujourd’hui !
-                    </p>
+                    </p> --}}
                 </div>
                 <!-- Image Content -->
                 <div class="md:w-1/2 flex justify-center">
